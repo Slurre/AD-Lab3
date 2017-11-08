@@ -1,0 +1,202 @@
+--------------- SELECTION SORT --------------
+Number of strings: 2
+	Average case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 1
+	Best case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 1
+	Worst case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 1
+Number of strings: 4
+	Average case: 
+		-Number of comparisons: 6
+		-Number of exchanges: 3
+	Best case: 
+		-Number of comparisons: 6
+		-Number of exchanges: 3
+	Worst case: 
+		-Number of comparisons: 6
+		-Number of exchanges: 3
+Number of strings: 8
+	Average case: 
+		-Number of comparisons: 28
+		-Number of exchanges: 7
+	Best case: 
+		-Number of comparisons: 28
+		-Number of exchanges: 7
+	Worst case: 
+		-Number of comparisons: 28
+		-Number of exchanges: 7
+Number of strings: 16
+	Average case: 
+		-Number of comparisons: 120
+		-Number of exchanges: 15
+	Best case: 
+		-Number of comparisons: 120
+		-Number of exchanges: 15
+	Worst case: 
+		-Number of comparisons: 120
+		-Number of exchanges: 15
+Number of strings: 32
+	Average case: 
+		-Number of comparisons: 496
+		-Number of exchanges: 31
+	Best case: 
+		-Number of comparisons: 496
+		-Number of exchanges: 31
+	Worst case: 
+		-Number of comparisons: 496
+		-Number of exchanges: 31
+Number of strings: 64
+	Average case: 
+		-Number of comparisons: 2016
+		-Number of exchanges: 63
+	Best case: 
+		-Number of comparisons: 2016
+		-Number of exchanges: 63
+	Worst case: 
+		-Number of comparisons: 2016
+		-Number of exchanges: 63
+Number of strings: 128
+	Average case: 
+		-Number of comparisons: 8128
+		-Number of exchanges: 127
+	Best case: 
+		-Number of comparisons: 8128
+		-Number of exchanges: 127
+	Worst case: 
+		-Number of comparisons: 8128
+		-Number of exchanges: 127
+Number of strings: 256
+	Average case: 
+		-Number of comparisons: 32640
+		-Number of exchanges: 255
+	Best case: 
+		-Number of comparisons: 32640
+		-Number of exchanges: 255
+	Worst case: 
+		-Number of comparisons: 32640
+		-Number of exchanges: 255
+Number of strings: 512
+	Average case: 
+		-Number of comparisons: 130816
+		-Number of exchanges: 511
+	Best case: 
+		-Number of comparisons: 130816
+		-Number of exchanges: 511
+	Worst case: 
+		-Number of comparisons: 130816
+		-Number of exchanges: 511
+Number of strings: 1024
+	Average case: 
+		-Number of comparisons: 523776
+		-Number of exchanges: 1023
+	Best case: 
+		-Number of comparisons: 523776
+		-Number of exchanges: 1023
+	Worst case: 
+		-Number of comparisons: 523776
+		-Number of exchanges: 1023
+--------------- INSERTION SORT --------------
+Number of strings: 2
+	Average case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 1
+	Best case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 1
+		-Number of exchanges: 1
+Number of strings: 4
+	Average case: 
+		-Number of comparisons: 5
+		-Number of exchanges: 4
+	Best case: 
+		-Number of comparisons: 3
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 6
+		-Number of exchanges: 6
+Number of strings: 8
+	Average case: 
+		-Number of comparisons: 14
+		-Number of exchanges: 7
+	Best case: 
+		-Number of comparisons: 7
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 28
+		-Number of exchanges: 28
+Number of strings: 16
+	Average case: 
+		-Number of comparisons: 70
+		-Number of exchanges: 57
+	Best case: 
+		-Number of comparisons: 15
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 120
+		-Number of exchanges: 120
+Number of strings: 32
+	Average case: 
+		-Number of comparisons: 314
+		-Number of exchanges: 286
+	Best case: 
+		-Number of comparisons: 31
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 496
+		-Number of exchanges: 496
+Number of strings: 64
+	Average case: 
+		-Number of comparisons: 1110
+		-Number of exchanges: 1050
+	Best case: 
+		-Number of comparisons: 63
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 2016
+		-Number of exchanges: 2016
+Number of strings: 128
+	Average case: 
+		-Number of comparisons: 4058
+		-Number of exchanges: 3937
+	Best case: 
+		-Number of comparisons: 127
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 8128
+		-Number of exchanges: 8128
+Number of strings: 256
+	Average case: 
+		-Number of comparisons: 16067
+		-Number of exchanges: 15820
+	Best case: 
+		-Number of comparisons: 255
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 32640
+		-Number of exchanges: 32640
+Number of strings: 512
+	Average case: 
+		-Number of comparisons: 65359
+		-Number of exchanges: 64858
+	Best case: 
+		-Number of comparisons: 511
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 130816
+		-Number of exchanges: 130816
+Number of strings: 1024
+	Average case: 
+		-Number of comparisons: 254674
+		-Number of exchanges: 253655
+	Best case: 
+		-Number of comparisons: 1023
+		-Number of exchanges: 0
+	Worst case: 
+		-Number of comparisons: 523776
+		-Number of exchanges: 523776
